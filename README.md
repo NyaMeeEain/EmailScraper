@@ -1,4 +1,4 @@
-# Emailscraper
+# EmailScraper
 
 
 Email scraper is an OSINT Python tool to extract email addresses for a given domain. I use a more realistic approach to collect targeted email addresses for phishing as we want to avoid guessing and constructing email since we need a valid email address associated with the domain. This tool uses two approaches to collect email addresses from Google and hunter.io. Collected results will be printed and save as CSV format.
